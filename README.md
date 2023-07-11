@@ -20,9 +20,8 @@
 ## Admin Web-App
 В данном приложении совершаются операции сотрудниками ГУП СК "РРЦ СК".
 
-1. Главная страница.
+1. Главная страница. 
 ![](Images/Admin%20App/Admin%20App%20Page%20for%20formation%20and%20sending%20payment%20registers.png)
-
 
 3. Формирование реестров оплат.
 ![](Images/Admin%20App/Admin%20App%20Formation%20of%20payment%20registers.png)
@@ -33,11 +32,18 @@
 5. Настройка рестров оплат для каждой организации.
 ![](Images/Admin%20App/Admin%20App%20Payment%20Register%20Settings.png)
 
+
 ## Client Web-App
+В данном приложении совершаются операции партнерами ГУП СК "РРЦ СК".
 
-### Назначение:
+1. Таблица реестров оплат. Видно реестры оплат всех организаций, посколько вход осуществлен под правами администратора.
+![](Images/Client%20App/Cliend%20App%20Main%20Page.png)
 
-#### Реализация:
+2. Уведомления.
+![](Images/Client%20App/Cliend%20App%20Notidication%20Drop%20Down.png)
 
-#### Ответственность:
+3. Уведомления.
+![](Images/Client%20App/Client%20App%20Notifications.png)
 
+4. Настройка личных данных пользователя.
+![](Images/Client%20App/Client%20App%20Settings.png)
