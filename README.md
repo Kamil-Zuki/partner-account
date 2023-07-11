@@ -29,6 +29,12 @@
 4. Панель формирование и отправки. Предоставлена возможность для выбора организаций и периода.
 ![](Images/Admin%20App/Admin%20App%20Choosing%20organizations.png)
 
+5. Страница организаций.
+![](Images/Admin%20App/Admin%20App%20Organizations.png)
+
+6. Группы организаций.
+![](Images/Admin%20App/Admin%20App%20Groups.png)
+
 5. Настройка рестров оплат для каждой организации.
 ![](Images/Admin%20App/Admin%20App%20Payment%20Register%20Settings.png)
 
